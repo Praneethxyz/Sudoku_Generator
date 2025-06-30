@@ -1,2 +1,2 @@
 # Sudoku_Generator
-Generates and can fill in the random sudoku it generates
+Generate,play and solve using this console sudoku repo
